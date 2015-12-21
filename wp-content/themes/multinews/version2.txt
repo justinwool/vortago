@@ -1,0 +1,506 @@
+
+<!DOCTYPE html>
+<html lang="en-US" class="no-js">
+    <head>
+        <meta charset="UTF-8" />
+        <!--[if IE]>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <![endif]-->
+
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://vortago.com/xmlrpc.php" />
+    <title>Test Page | Vortago</title>
+        <meta property="og:image" content=""/>
+    <meta property="og:image:width" content="300" /> 
+    <meta property="og:image:height" content="300" />
+
+    
+    <meta property="og:title" content="Test Page"/>
+    <meta property="og:type" content="article"/>
+    <meta property="og:description" content=""/>
+    <meta property="og:url" content="http://vortago.com/index.php/test-page/"/>
+    <meta property="og:site_name" content="Vortago"/>
+    
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	        <link rel="stylesheet" type="text/css" href="http://vortago.com/wp-content/themes/multinews/css/print.css" media="print" />
+    			<link rel="apple-touch-icon" href="http://vortago.com/wp-content/themes/multinews/apple-touch-icon-precomposed.png" />
+	 
+<link rel="alternate" type="application/rss+xml" title="Vortago &raquo; Feed" href="http://vortago.com/index.php/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Vortago &raquo; Comments Feed" href="http://vortago.com/index.php/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/vortago.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.1"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='open-sans-css'  href='https://fonts.googleapis.com/css?family=Open+Sans%3A300italic%2C400italic%2C600italic%2C300%2C400%2C600&#038;subset=latin%2Clatin-ext&#038;ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='dashicons-css'  href='http://vortago.com/wp-includes/css/dashicons.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='admin-bar-css'  href='http://vortago.com/wp-includes/css/admin-bar.min.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='pt-cv-bootstrap-style-css'  href='http://vortago.com/wp-content/plugins/content-views-query-and-display-post-page/assets/bootstrap/css/bootstrap.min.css?ver=3.3.0' type='text/css' media='all' />
+<link rel='stylesheet' id='pt-cv-public-style-css'  href='http://vortago.com/wp-content/plugins/content-views-query-and-display-post-page/public/assets/css/public.css?ver=1.6.7' type='text/css' media='all' />
+<link rel='stylesheet' id='layerslider-css'  href='http://vortago.com/wp-content/plugins/LayerSlider/static/css/layerslider.css?ver=5.5.1' type='text/css' media='all' />
+<link rel='stylesheet' id='ls-google-fonts-css'  href='http://fonts.googleapis.com/css?family=Lato:100,300,regular,700,900%7COpen+Sans:300%7CIndie+Flower:regular%7COswald:300,regular,700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='contact-form-7-css'  href='http://vortago.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3' type='text/css' media='all' />
+<link rel='stylesheet' id='rs-plugin-settings-css'  href='http://vortago.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.0.4.1' type='text/css' media='all' />
+<style id='rs-plugin-settings-inline-css' type='text/css'>
+.tp-caption a{color:#ff7302;text-shadow:none;-webkit-transition:all 0.2s ease-out;-moz-transition:all 0.2s ease-out;-o-transition:all 0.2s ease-out;-ms-transition:all 0.2s ease-out}.tp-caption a:hover{color:#ffa902}
+</style>
+<link rel='stylesheet' id='multinews-style-css'  href='http://vortago.com/wp-content/themes/multinews/style.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='main-css'  href='http://vortago.com/wp-content/themes/multinews/css/main.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='plugins-css'  href='http://vortago.com/wp-content/themes/multinews/css/plugins.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='responsive-css'  href='http://vortago.com/wp-content/themes/multinews/css/media.css?ver=4.3.1' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css'  href='http://vortago.com/wp-content/plugins/js_composer/assets/css/js_composer.css?ver=4.6.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://vortago.com/wp-content/plugins/LayerSlider/static/js/greensock.js?ver=1.11.8'></script>
+<script type='text/javascript' src='http://vortago.com/wp-includes/js/jquery/jquery.js?ver=1.11.3'></script>
+<script type='text/javascript' src='http://vortago.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
+<script type='text/javascript' src='http://vortago.com/wp-content/plugins/LayerSlider/static/js/layerslider.kreaturamedia.jquery.js?ver=5.5.1'></script>
+<script type='text/javascript' src='http://vortago.com/wp-content/plugins/LayerSlider/static/js/layerslider.transitions.js?ver=5.5.1'></script>
+<script type='text/javascript' src='http://vortago.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.0.4.1'></script>
+<script type='text/javascript' src='http://vortago.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.0.4.1'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://vortago.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://vortago.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.1" />
+<link rel='canonical' href='http://vortago.com/index.php/test-page/' />
+<link rel='shortlink' href='http://vortago.com/?p=121' />
+	<!--[if lt IE 9]>
+	<script src="http://vortago.com/wp-content/themes/multinews/framework/helpers/js/html5.js"></script>
+	<script src="http://vortago.com/wp-content/themes/multinews/framework/helpers/js/IE9.js"></script>
+	<![endif]-->
+	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+<meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress."/>
+<!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://vortago.com/wp-content/plugins/js_composer/assets/css/vc-ie8.css" media="screen"><![endif]--><style type="text/css" media="print">#wpadminbar { display:none; }</style>
+<style type="text/css" media="screen">
+	html { margin-top: 32px !important; }
+	* html body { margin-top: 32px !important; }
+	@media screen and ( max-width: 782px ) {
+		html { margin-top: 46px !important; }
+		* html body { margin-top: 46px !important; }
+	}
+</style>
+<meta name="generator" content="Powered by Slider Revolution 5.0.4.1 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+<style type="text/css" title="dynamic-css" class="options-output">.top-bar, ul.top-menu li ul li:hover, .ajax-search-results a:hover{background:;}ul.top-social-icon li:hover, ul.top-menu li.current-menu-item, ul.top-menu li:hover, .mobile-menu .mobile-menu-icon:hover, .mobile-menu .mobile-menu-icon.dl-active, ul.top-menu > li ul.sub-menu, div.search-dropdown, .ajax-search-results{background:;}.today_date{background:;}.navigation, .hst1 .navigation, .hst2 .navigation, .hst3 .navigation, .fixed-header{background:;}ul.main-menu li.current-menu-parent, ul.main-menu li.current-menu-item, ul.main-menu li:hover, .device-menu-holder, #navigation .device-menu li.menu-item:hover, .hst1 ul.main-menu li:hover, .hst2 ul.main-menu li:hover, .hst3 ul.main-menu li:hover, .hst1 ul.main-menu li.current-menu-parent, .hst1 ul.main-menu li.current-menu-item, .hst1 .device-menu-holder, .hst1 #navigation .device-menu li.menu-item:hover, .hst2 ul.main-menu li.current-menu-parent, .hst2 ul.main-menu li.current-menu-item, .hst2 .device-menu-holder, .hst2 #navigation .device-menu li.menu-item:hover, .hst3 ul.main-menu li.current-menu-parent, .hst3 ul.main-menu li.current-menu-item, .hst3 .device-menu-holder, .hst3 #navigation .device-menu li.menu-item:hover{background:;}.navigation ul.main-menu > li:not(.mom_mega) ul.sub-menu, .navigation ul.main-menu > li .mom-megamenu, .navigation ul.main-menu > li.mom_mega.menu-item-depth-0 > .mom_mega_wrap, ul.main-menu li.mom_mega ul li ul li:hover, .hst1 .navigation ul.main-menu > li:not(.mom_mega) ul.sub-menu, .hst2 .navigation ul.main-menu > li:not(.mom_mega) ul.sub-menu, .hst3 .navigation ul.main-menu > li:not(.mom_mega) ul.sub-menu, .hst1 .navigation ul.main-menu > li .mom-megamenu, .hst2 .navigation ul.main-menu > li .mom-megamenu, .hst3 .navigation ul.main-menu > li .mom-megamenu, .hst1 .navigation ul.main-menu > li.mom_mega.menu-item-depth-0 > .mom_mega_wrap, .hst2 .navigation ul.main-menu > li.mom_mega.menu-item-depth-0 > .mom_mega_wrap, .hst3 .navigation ul.main-menu > li.mom_mega.menu-item-depth-0 > .mom_mega_wrap, .hst1 ul.main-menu > li ul.sub-menu, .hst2 ul.main-menu > li ul.sub-menu, .hst3 ul.main-menu > li ul.sub-menu, .hst1 .navigation ul.main-menu > li:not(.mom_mega) ul.sub-menu, .hst2 .navigation ul.main-menu > li:not(.mom_mega) ul.sub-menu, .hst3 .navigation ul.main-menu > li:not(.mom_mega) ul.sub-menu{background:;}ul.main-menu li ul li:hover, .navigation .mom-megamenu ul li.active, .navigation .mom-megamenu ul li:hover, .hst1 .navigation .mom-megamenu ul li.active, .hst1 .navigation .mom-megamenu ul li:hover, .hst2 .navigation .mom-megamenu ul li.active, .hst2 .navigation .mom-megamenu ul li:hover, .hst3 .navigation .mom-megamenu ul li.active, .hst3 .navigation .mom-megamenu ul li:hover, .hst1 ul.main-menu li:not(.mom_mega) ul li:hover, .hst2 ul.main-menu li:not(.mom_mega) ul li:hover, .hst3 ul.main-menu li:not(.mom_mega) ul li:hover, .hst1 ul.main-menu li.mom_mega ul li:not(.mega_col_title):hover, .hst2 ul.main-menu li.mom_mega ul li:not(.mega_col_title):hover, .hst3 ul.main-menu li.mom_mega ul li:not(.mega_col_title):hover{background:;}.mom-body .breaking-news, .mom-body .breaking-news .br-right{background:;}.mom-body .breaking-news .breaking-title{background:;}.section, ul.products li .product-inner, .sidebar .widget,.secondary-sidebar .widget , .sidebar.sws2 .widget, .secondary-sidebar.sws2 .widget{background:;}header.block-title, .f-tabbed-head, .section-header, ol.nb-tabbed-head li:hover, ul.f-tabbed-sort li:hover, .secondary-sidebar .widget-title h2, .sidebar .widget-title h2{background:;}.sidebar, .secondary-sidebar{background:;}.secondary-sidebar .widget-title h2, .sidebar .widget-title h2{background:;}footer.footer{border-top:0px solid inherit;border-bottom:0px solid inherit;border-left:0px solid inherit;border-right:0px solid inherit;}.toup{background:;}.footer-bottom{background:;}ul.footer-bottom-menu{border-top:0px solid inherit;border-bottom:0px solid inherit;border-left:0px solid inherit;border-right:0px solid inherit;}body{background-image:url('http://celeb.appgameguide.com/wp-content/uploads/2015/06/stephen_colbert-late_show.jpg');}</style>	<style type="text/css" class="multinews-custom-dynamic-css">
+					header.block-title h2 a, header.block-title h2, .section-header h2.section-title a, .section-header h2.section-title{
+			color: ;
+		}
+				.widget-title h2{
+			color: ;
+		}
+				.header-wrap > .inner,
+		.header-wrap{
+			line-height: 122px;
+			height: 122px;
+		}
+						.navigation .mom-megamenu ul li.active:before, .navigation .mom-megamenu ul li:hover:before{
+			border-left-color: ;
+		}
+					/* navigation style */
+			
+	
+		.entry-content .news-box ul{ padding: 0; margin-bottom: 0;}
+.entry-content .news-box ul li{ list-style: none; }
+.entry-content ul{ padding: 0; margin-bottom: 0;}
+.entry-content ul li{ list-style: none; }
+body {
+
+}
+	
+
+	
+</style>
+<noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript></head> 
+    <body class="page page-id-121 page-template-default logged-in admin-bar no-customize-support desktop chrome right-sidebar one-side-wide singular  fade-imgs-in-appear responsive_enabled wp_gallery_lightbox_on multinews-2.3.4 mom-body wpb-js-composer js-comp-ver-4.6.2 vc_responsive" itemscope="itemscope" itemtype="http://schema.org/WebPage">
+        	<!--[if lt IE 7]>
+            <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+        <![endif]-->
+    	                <div class="wrap_every_thing">
+        <div class="fixed_wrap fixed clearfix"><!--fixed layout-->
+            <div class="wrap clearfix"><!--wrap-->
+                <header class="header"><!--Header-->
+                <div id="header-wrapper"><!-- header wrap -->
+                                    
+				<div class="top-bar"><!--topbar-->
+    <div class="inner"><!--inner-->
+
+                 <i class="menu-message">Select your Top Menu from wp menus</i>             
+<div class="top-bar-right">
+    <ul class="top-social-icon">
+	      <li class="facebook"><a href="#" target="_blank"></a></li>
+        <li class="twitter"><a href="#" target="_blank"></a></li>
+        <li class="youtube"><a href="#" target="_blank"></a></li>
+        <li class="google"><a href="#" target="_blank"></a></li>
+        <li class="pin"><a href="#" target="_blank"></a></li>
+        <li class="vimeo"><a href="#" target="_blank"></a></li>
+        	<li class="top-search"><a href="#"></a>
+        <div class="search-dropdown">
+          <form class="mom-search-form" method="get" action="http://vortago.com/">
+              <input type="text" id="tb-search" class="sf" name="s" placeholder="Enter keywords and press enter" required="" autocomplete="off">
+            <span class="sf-loading"><img src="http://vortago.com/wp-content/themes/multinews/images/ajax-search-nav.png" alt="search" width="16" height="16"></span>                      </form>
+                    <div class="ajax-search-results"></div>
+                  </div>
+      </li>
+  	    </ul>
+</div>
+            
+        </div><!--inner-->
+    </div><!--topbar-->                    
+                    <div class="header-wrap"><!--header content-->
+                        <div class="inner"><!--inner-->
+                        	    <div class="logo" itemscope="itemscope" itemtype="http://schema.org/Organization">
+        
+                <img class="print-logo" itemprop="logo" src="" width="" height="" alt="Vortago"/> 
+                 
+        <a href="http://vortago.com" itemprop="url" title="Vortago">
+                		<img itemprop="logo" src="http://vortago.com/wp-content/themes/multinews/images/logo.png" alt="Vortago"/>
+                
+        		
+        		        			<img itemprop="logo" class="mom_retina_logo" src="http://vortago.com/wp-content/themes/multinews/images/logo-hd.png" alt="Vortago" />
+        				        </a>
+         
+
+        <meta itemprop="name" content="Vortago">
+    </div>
+                
+    <div class="header-banner">
+				<div class="mom-ads-wrap  ">
+	<div class="mom-ads " style="">
+		<div class="mom-ads-inner">
+		
+		</div>
+	</div>	<!--Mom ads-->
+	</div>
+    </div>
+                        </div><!--inner-->
+                    </div><!--header content-->
+                </div><!-- header wrap -->
+				
+				<nav id="navigation" class="navigation  dd-effect-slide " data-sticky_logo="" data-sticky_logo_width="" role="navigation" itemscope="itemscope" itemtype="http://schema.org/SiteNavigationElement"><!--Navigation-->
+<div class="inner"><!--inner-->
+		 <i class="menu-message">Select your Main Menu from wp menus</i> <div class="clear"></div>
+</div><!--inner-->
+</nav><!--Navigation-->                
+                <div class="breaking-news"><!--breaking news-->
+    <div class="inner"><!--inner-->
+        
+        <div class="breaking-news-items">
+        <span class="breaking-title">Latest News</span>
+        <div class="breaking-cont">
+            <ul class="webticker" data-br_type="default" data-br_speed="0.07" data-br_bspeed="600" data-br_duration="4000">
+                <br />
+<b>Warning</b>:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in <b>/home/appgam5/public_html/vortago/wp-content/themes/multinews/framework/includes/breaking.php</b> on line <b>62</b><br />
+                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" target="_blank"href="http://vortago.com/index.php/2015/12/15/sam-harris-on-very-bad-wizards-on-tuesday-december-15th-2015/" rel="bookmark">Sam Harris on Very Bad Wizards
+ on Tuesday December 15th, 2015</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" target="_blank"href="http://vortago.com/index.php/2015/09/23/hello-world/" rel="bookmark">Hello world!</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" target="_blank"href="http://vortago.com/index.php/2015/06/28/sam-harris-on-waking-up-with-sam-harris-on-sunday-june-28th-2015/" rel="bookmark">Sam Harris on Waking Up with Sam Harris
+ on Sunday June 28th, 2015</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" target="_blank"href="http://vortago.com/index.php/2015/05/07/sam-harris-on-the-young-turks-on-thursday-may-7th-2015/" rel="bookmark">Sam Harris on The Young Turks
+ on Thursday May 7th, 2015</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" target="_blank"href="http://vortago.com/index.php/2015/04/29/sam-harris-on-joe-rogan-experience-on-wednesday-april-29th-2015/" rel="bookmark">Sam Harris on Joe Rogan Experience
+ on Wednesday April 29th, 2015</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" target="_blank"href="http://vortago.com/index.php/2015/04/25/sam-harris-on-waking-up-with-sam-harris-on-saturday-april-25th-2015/" rel="bookmark">Sam Harris on Waking Up with Sam Harris
+ on Saturday April 25th, 2015</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" target="_blank"href="http://vortago.com/index.php/2014/10/07/sam-harris-on-radiotimes-on-tuesday-october-7th-2014/" rel="bookmark">Sam Harris on RadioTimes
+ on Tuesday October 7th, 2014</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" target="_blank"href="http://vortago.com/index.php/2014/10/06/sam-harris-on-realtime-with-bill-maher-on-monday-october-6th-2014/" rel="bookmark">Sam Harris on Realtime with Bill Maher
+ on Monday October 6th, 2014</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" target="_blank"href="http://vortago.com/index.php/2014/10/02/sam-harris-on-fareed-zakaria-gps-on-thursday-october-2nd-2014/" rel="bookmark">Sam Harris on Fareed Zakaria GPS
+ on Thursday October 2nd, 2014</a></h4></li>
+                                    <li itemscope="" itemtype="http://schema.org/Article"><h4 itemprop="name"><span class="enotype-icon-arrow-right6"></span><a itemprop="url" target="_blank"href="http://vortago.com/index.php/2014/09/02/sam-harris-on-joe-rogan-experience-on-tuesday-september-2nd-2014/" rel="bookmark">Sam Harris on Joe Rogan Experience
+ on Tuesday September 2nd, 2014</a></h4></li>
+                            </ul>
+        </div>
+    </div>  
+           
+        <div class="brmenu">
+            </div>
+            
+    </div><!--inner-->
+</div><!--breaking news-->           
+            </header><!--Header-->
+                                 
+            
+
+	<div class="main-container clearfix"><!--container-->
+								 <div class="post-crumbs entry-crumbs" xmlns:v="http://rdf.data-vocabulary.org/#">
+		 	           <span></span><div class="vbreadcrumb" typeof="v:Breadcrumb"><a href="http://vortago.com/" rel="v:url" property="v:title" class="home">Home</a></div>            Test Page        </div>
+                		
+
+											<div class="main-left"><!--Main Left-->
+			            <div class="main-content" role="main"><!--Main Content-->
+
+			         Hellooooooo Justin <br>
+
+
+
+
+<!-- JW -->
+
+			        <div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><div class="vc_tta-container" data-vc-action="collapse"><div class="vc_general vc_tta vc_tta-tabs vc_tta-color-grey vc_tta-style-classic vc_tta-shape-rounded vc_tta-spacing-1 vc_tta-tabs-position-top vc_tta-controls-align-left"><div class="vc_tta-tabs-container"><ul class="vc_tta-tabs-list"><li class="vc_tta-tab vc_active" data-vc-tab><a href="#1443125137616-c0ca20ba-20f6" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Tab 1</span></a></li><li class="vc_tta-tab" data-vc-tab><a href="#1443125137693-81e9ad84-ca75" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Tab 2</span></a></li></ul></div><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel vc_active" id="1443125137616-c0ca20ba-20f6" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1443125137616-c0ca20ba-20f6" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Tab 1</span></a></h4></div><div class="vc_tta-panel-body"><br />
+</div></div><div class="vc_tta-panel" id="1443125137693-81e9ad84-ca75" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1443125137693-81e9ad84-ca75" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Tab 2</span></a></h4></div><div class="vc_tta-panel-body"><br />
+</div></div></div></div></div></div></div></div></div>
+
+
+
+
+			        <div class="vc_row wpb_row vc_row-fluid"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="wpb_wrapper"><div class="vc_tta-container" data-vc-action="collapse"><div class="vc_general vc_tta vc_tta-tabs vc_tta-color-grey vc_tta-style-classic vc_tta-shape-rounded vc_tta-spacing-1 vc_tta-tabs-position-top vc_tta-controls-align-left"><div class="vc_tta-tabs-container"><ul class="vc_tta-tabs-list"><li class="vc_tta-tab vc_active" data-vc-tab><a href="#1443125137616-c0ca20ba-20f6" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Tab 1</span></a></li><li class="vc_tta-tab" data-vc-tab><a href="#1443125137693-81e9ad84-ca75" data-vc-tabs data-vc-container=".vc_tta"><span class="vc_tta-title-text">Tab 2</span></a></li></ul></div><div class="vc_tta-panels-container"><div class="vc_tta-panels"><div class="vc_tta-panel vc_active" id="1443125137616-c0ca20ba-20f6" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1443125137616-c0ca20ba-20f6" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Tab 1</span></a></h4></div><div class="vc_tta-panel-body"><br />
+</div></div><div class="vc_tta-panel" id="1443125137693-81e9ad84-ca75" data-vc-content=".vc_tta-panel-body"><div class="vc_tta-panel-heading"><h4 class="vc_tta-panel-title"><a href="#1443125137693-81e9ad84-ca75" data-vc-accordion data-vc-container=".vc_tta-container"><span class="vc_tta-title-text">Tab 2</span></a></h4></div><div class="vc_tta-panel-body"><br />
+</div></div></div></div></div></div></div></div></div>
+                    	</div>
+                    	 					</div>
+					<aside class="sidebar sws2" role="complementary" itemscope="itemscope" itemtype="http://schema.org/WPSideBar"><!--sidebar-->
+    <div class="widget posts"><div class="widget-title"><h2>Recent Posts</h2></div>		<ul class="post-list default">
+
+					<li itemscope="" itemtype="http://schema.org/Article">
+								<figure class="post-thumbnail"><a itemprop="url" href="http://vortago.com/index.php/2015/12/15/sam-harris-on-very-bad-wizards-on-tuesday-december-15th-2015/" rel="bookmark">
+				<img itemprop="image" src="http://vortago.com/wp-content/uploads/2015/12/1412469260802_wps_18_image003_png-81x55.jpg" data-hidpi="http://vortago.com/wp-content/uploads/2015/12/1412469260802_wps_18_image003_png-81x55.jpg" alt="Sam Harris on Very Bad Wizards
+ on Tuesday December 15th, 2015" width="81" height="55">				</a></figure>
+								<h2 itemprop="name"><a itemprop="url" href="http://vortago.com/index.php/2015/12/15/sam-harris-on-very-bad-wizards-on-tuesday-december-15th-2015/" rel="bookmark">Sam Harris on Very Bad Wizards
+ on Tuesday December 15th, 2015</a></h2>
+								<div class="entry-meta">
+									    <time class="entry-date" datetime="2015-12-15T00:00:00+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>December 15, 2015</time>
+				    				    				</div>
+								<a href="http://vortago.com/index.php/2015/12/15/sam-harris-on-very-bad-wizards-on-tuesday-december-15th-2015/" class="read-more-link">Read more...</a>
+			</li>
+
+						<li itemscope="" itemtype="http://schema.org/Article">
+								<figure class="post-thumbnail"><a itemprop="url" href="http://vortago.com/index.php/2015/09/23/hello-world/" rel="bookmark">
+				<img itemprop="image" src="http://vortago.com/wp-content/uploads/2015/09/1412469260802_wps_18_image003_png-81x55.jpg" data-hidpi="http://vortago.com/wp-content/uploads/2015/09/1412469260802_wps_18_image003_png-81x55.jpg" alt="Hello world!" width="81" height="55">				</a></figure>
+								<h2 itemprop="name"><a itemprop="url" href="http://vortago.com/index.php/2015/09/23/hello-world/" rel="bookmark">Hello world!</a></h2>
+								<div class="entry-meta">
+									    <time class="entry-date" datetime="2015-09-23T14:37:12+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>September 23, 2015</time>
+				    				    				</div>
+								<a href="http://vortago.com/index.php/2015/09/23/hello-world/" class="read-more-link">Read more...</a>
+			</li>
+
+						<li itemscope="" itemtype="http://schema.org/Article">
+								<figure class="post-thumbnail"><a itemprop="url" href="http://vortago.com/index.php/2015/06/28/sam-harris-on-waking-up-with-sam-harris-on-sunday-june-28th-2015/" rel="bookmark">
+				<img itemprop="image" src="http://vortago.com/wp-content/uploads/2015/06/1412469260802_wps_18_image003_png-81x55.jpg" data-hidpi="http://vortago.com/wp-content/uploads/2015/06/1412469260802_wps_18_image003_png-81x55.jpg" alt="Sam Harris on Waking Up with Sam Harris
+ on Sunday June 28th, 2015" width="81" height="55">				</a></figure>
+								<h2 itemprop="name"><a itemprop="url" href="http://vortago.com/index.php/2015/06/28/sam-harris-on-waking-up-with-sam-harris-on-sunday-june-28th-2015/" rel="bookmark">Sam Harris on Waking Up with Sam Harris
+ on Sunday June 28th, 2015</a></h2>
+								<div class="entry-meta">
+									    <time class="entry-date" datetime="2015-06-28T00:00:00+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>June 28, 2015</time>
+				    				    				</div>
+								<a href="http://vortago.com/index.php/2015/06/28/sam-harris-on-waking-up-with-sam-harris-on-sunday-june-28th-2015/" class="read-more-link">Read more...</a>
+			</li>
+
+						<li itemscope="" itemtype="http://schema.org/Article">
+								<figure class="post-thumbnail"><a itemprop="url" href="http://vortago.com/index.php/2015/05/07/sam-harris-on-the-young-turks-on-thursday-may-7th-2015/" rel="bookmark">
+				<img itemprop="image" src="http://vortago.com/wp-content/uploads/2015/05/1412469260802_wps_18_image003_png-81x55.jpg" data-hidpi="http://vortago.com/wp-content/uploads/2015/05/1412469260802_wps_18_image003_png-81x55.jpg" alt="Sam Harris on The Young Turks
+ on Thursday May 7th, 2015" width="81" height="55">				</a></figure>
+								<h2 itemprop="name"><a itemprop="url" href="http://vortago.com/index.php/2015/05/07/sam-harris-on-the-young-turks-on-thursday-may-7th-2015/" rel="bookmark">Sam Harris on The Young Turks
+ on Thursday May 7th, 2015</a></h2>
+								<div class="entry-meta">
+									    <time class="entry-date" datetime="2015-05-07T00:00:00+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>May 07, 2015</time>
+				    				    				</div>
+								<a href="http://vortago.com/index.php/2015/05/07/sam-harris-on-the-young-turks-on-thursday-may-7th-2015/" class="read-more-link">Read more...</a>
+			</li>
+
+						<li itemscope="" itemtype="http://schema.org/Article">
+								<figure class="post-thumbnail"><a itemprop="url" href="http://vortago.com/index.php/2015/04/29/sam-harris-on-joe-rogan-experience-on-wednesday-april-29th-2015/" rel="bookmark">
+				<img itemprop="image" src="http://vortago.com/wp-content/uploads/2015/04/1412469260802_wps_18_image003_png-81x55.jpg" data-hidpi="http://vortago.com/wp-content/uploads/2015/04/1412469260802_wps_18_image003_png-81x55.jpg" alt="Sam Harris on Joe Rogan Experience
+ on Wednesday April 29th, 2015" width="81" height="55">				</a></figure>
+								<h2 itemprop="name"><a itemprop="url" href="http://vortago.com/index.php/2015/04/29/sam-harris-on-joe-rogan-experience-on-wednesday-april-29th-2015/" rel="bookmark">Sam Harris on Joe Rogan Experience
+ on Wednesday April 29th, 2015</a></h2>
+								<div class="entry-meta">
+									    <time class="entry-date" datetime="2015-04-29T00:00:00+00:00" itemprop="dateCreated"><i class="momizat-icon-calendar"></i>April 29, 2015</time>
+				    				    				</div>
+								<a href="http://vortago.com/index.php/2015/04/29/sam-harris-on-joe-rogan-experience-on-wednesday-april-29th-2015/" class="read-more-link">Read more...</a>
+			</li>
+
+									                                    </ul>
+</div><div class="widget widget_search"><div class="search-box">
+    <form role="search" method="get" class="search-form mom-search-form" action="http://vortago.com">
+            <input type="search" class="search-field sf" value="Search" name="s" title="Search for:" onfocus="if(this.value=='Search')this.value='';" onblur="if(this.value=='')this.value='Search';">
+    <button type="submit" class="search-submit" value="Search"></button>
+        </form>
+</div></div><div class="widget widget_recent_comments"><div class="widget-title"><h2>Recent Comments</h2></div><ul id="recentcomments"><li class="recentcomments"><span class="comment-author-link"><a href='https://wordpress.org/' rel='external nofollow' class='url'>Mr WordPress</a></span> on <a href="http://vortago.com/index.php/2015/09/23/hello-world/#comment-1">Hello world!</a></li></ul></div><div class="widget widget_archive"><div class="widget-title"><h2>Archives</h2></div>		<ul>
+	<li><a href='http://vortago.com/index.php/2015/12/'>December 2015</a></li>
+	<li><a href='http://vortago.com/index.php/2015/09/'>September 2015</a></li>
+	<li><a href='http://vortago.com/index.php/2015/06/'>June 2015</a></li>
+	<li><a href='http://vortago.com/index.php/2015/05/'>May 2015</a></li>
+	<li><a href='http://vortago.com/index.php/2015/04/'>April 2015</a></li>
+	<li><a href='http://vortago.com/index.php/2014/10/'>October 2014</a></li>
+	<li><a href='http://vortago.com/index.php/2014/09/'>September 2014</a></li>
+	<li><a href='http://vortago.com/index.php/2014/06/'>June 2014</a></li>
+	<li><a href='http://vortago.com/index.php/2013/12/'>December 2013</a></li>
+	<li><a href='http://vortago.com/index.php/2013/10/'>October 2013</a></li>
+	<li><a href='http://vortago.com/index.php/2012/10/'>October 2012</a></li>
+	<li><a href='http://vortago.com/index.php/2012/09/'>September 2012</a></li>
+	<li><a href='http://vortago.com/index.php/2012/08/'>August 2012</a></li>
+	<li><a href='http://vortago.com/index.php/2012/05/'>May 2012</a></li>
+	<li><a href='http://vortago.com/index.php/2012/04/'>April 2012</a></li>
+	<li><a href='http://vortago.com/index.php/2012/03/'>March 2012</a></li>
+	<li><a href='http://vortago.com/index.php/2011/11/'>November 2011</a></li>
+	<li><a href='http://vortago.com/index.php/2011/04/'>April 2011</a></li>
+	<li><a href='http://vortago.com/index.php/2010/11/'>November 2010</a></li>
+	<li><a href='http://vortago.com/index.php/2010/10/'>October 2010</a></li>
+	<li><a href='http://vortago.com/index.php/2010/09/'>September 2010</a></li>
+	<li><a href='http://vortago.com/index.php/2010/08/'>August 2010</a></li>
+	<li><a href='http://vortago.com/index.php/2010/05/'>May 2010</a></li>
+	<li><a href='http://vortago.com/index.php/2010/03/'>March 2010</a></li>
+	<li><a href='http://vortago.com/index.php/2010/02/'>February 2010</a></li>
+	<li><a href='http://vortago.com/index.php/2009/04/'>April 2009</a></li>
+	<li><a href='http://vortago.com/index.php/2008/10/'>October 2008</a></li>
+	<li><a href='http://vortago.com/index.php/2008/01/'>January 2008</a></li>
+	<li><a href='http://vortago.com/index.php/2007/01/'>January 2007</a></li>
+	<li><a href='http://vortago.com/index.php/2006/11/'>November 2006</a></li>
+	<li><a href='http://vortago.com/index.php/2006/10/'>October 2006</a></li>
+	<li><a href='http://vortago.com/index.php/2006/04/'>April 2006</a></li>
+	<li><a href='http://vortago.com/index.php/2005/12/'>December 2005</a></li>
+	<li><a href='http://vortago.com/index.php/2005/01/'>January 2005</a></li>
+	<li><a href='http://vortago.com/index.php/2004/12/'>December 2004</a></li>
+		</ul>
+</div><div class="widget widget_categories"><div class="widget-title"><h2>Categories</h2></div>		<ul>
+	<li class="cat-item cat-item-3"><a href="http://vortago.com/index.php/category/people/sam-harris/" >Sam Harris</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://vortago.com/index.php/category/uncategorized/" >Uncategorized</a>
+</li>
+		</ul>
+</div><div class="widget widget_meta"><div class="widget-title"><h2>Meta</h2></div>			<ul>
+			<li><a href="http://vortago.com/wp-admin/">Site Admin</a></li>			<li><a href="http://vortago.com/wp-login.php?action=logout&#038;_wpnonce=75f6f5eb2c">Log out</a></li>
+			<li><a href="http://vortago.com/index.php/feed/">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://vortago.com/index.php/comments/feed/">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+<li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>			</ul>
+</div></aside><!--sidebar-->
+						
+    </div><!--container-->
+
+</div><!--wrap-->
+
+            <footer class="footer clearfix">
+    <div class="inner">
+        
+                            <div class="footer-widget one_fourth">
+                                            </div>
+                    <div class="footer-widget one_fourth">
+                                            </div>
+                    <div class="footer-widget one_fourth">
+                                            </div>
+                    <div class="footer-widget one_fourth last">
+                                            </div>
+                
+    </div>
+</footer>            
+                        
+                        <div class="footer-bottom" role="contentinfo" itemscope="itemscope" itemtype="http://schema.org/WPFooter">
+                <div class="inner">
+                    <div class="alignright">
+                        
+                        
+                                                
+                                                <ul class="footer-bottom-social">
+                                <li class="facebook"><a href="#" target="_blank"></a></li>
+        <li class="twitter"><a href="#" target="_blank"></a></li>
+        <li class="youtube"><a href="#" target="_blank"></a></li>
+        <li class="google"><a href="#" target="_blank"></a></li>
+        <li class="pin"><a href="#" target="_blank"></a></li>
+        <li class="vimeo"><a href="#" target="_blank"></a></li>
+                            </ul>
+                                            </div>
+                    <div class="alignleft">
+                        
+                                                <div class="footer-logo">
+                            <a itemprop="url" href="http://vortago.com">
+                                                            <img src="http://celeb.appgameguide.com/wp-content/themes/multinews/images/footer-logo.png" width="" height="" alt="Vortago">
+                                                        </a>
+                        </div>
+                                                
+                        <div class="copyrights">Copyright © 2014 by Multi NEWS. Proudly powered by WordPress.</div>
+                        
+                    </div>
+                </div>
+            </div>
+                        <a class="toup" href="#"><i class="enotype-icon-arrow-up6"></i></a>        </div><!--fixed layout-->
+    </div> <!-- wrap every thing -->
+        <script type='text/javascript' src='http://vortago.com/wp-includes/js/admin-bar.min.js?ver=4.3.1'></script>
+<script type='text/javascript' src='http://vortago.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var _wpcf7 = {"loaderUrl":"http:\/\/vortago.com\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","sending":"Sending ..."};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vortago.com/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3'></script>
+<script type='text/javascript' src='http://vortago.com/wp-content/plugins/content-views-query-and-display-post-page/assets/bootstrap/js/bootstrap.min.js?ver=3.3.0'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var PT_CV_PAGINATION = {"first":"\u00ab","prev":"\u2039","next":"\u203a","last":"\u00bb","goto_first":"Go to first page","goto_prev":"Go to previous page","goto_next":"Go to next page","goto_last":"Go to last page","current_page":"Current page is","goto_page":"Go to page"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vortago.com/wp-content/plugins/content-views-query-and-display-post-page/assets/bootstrap-paginator/bootstrap-paginator.min.js?ver=0.5'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var PT_CV_PUBLIC = {"_prefix":"pt-cv-","page_to_show":"5","_nonce":"408456a413","is_admin":"","is_mobile":"","ajaxurl":"http:\/\/vortago.com\/wp-admin\/admin-ajax.php","lang":"","move_bootstrap":"1"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vortago.com/wp-content/plugins/content-views-query-and-display-post-page/public/assets/js/public.js?ver=1.6.7'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var momAjaxL = {"url":"http:\/\/vortago.com\/wp-admin\/admin-ajax.php","nonce":"45f30245e1","success":"Check your email to complete subscription","error":"Already subscribed","error2":"Email invalid","nomore":"No More Posts","homeUrl":"http:\/\/vortago.com","viewAll":"View All Results","noResults":"Sorry, no posts matched your criteria"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://vortago.com/wp-content/themes/multinews/js/main.js?ver=1.0'></script>
+<script type='text/javascript' src='http://vortago.com/wp-content/themes/multinews/js/plugins.min.js?ver=1.0'></script>
+<script type='text/javascript' src='http://vortago.com/wp-content/plugins/js_composer/assets/js/js_composer_front.js?ver=4.6.2'></script>
+<script type='text/javascript' src='http://vortago.com/wp-content/plugins/js_composer/assets/lib/vc_accordion/vc-accordion.js?ver=4.6.2'></script>
+<script type='text/javascript' src='http://vortago.com/wp-content/plugins/js_composer/assets/lib/vc-tta-autoplay/vc-tta-autoplay.js?ver=4.6.2'></script>
+<script type='text/javascript' src='http://vortago.com/wp-content/plugins/js_composer/assets/lib/vc_tabs/vc-tabs.js?ver=4.6.2'></script>
+	<script type="text/javascript">
+		(function() {
+			var request, b = document.body, c = 'className', cs = 'customize-support', rcs = new RegExp('(^|\\s+)(no-)?'+cs+'(\\s+|$)');
+
+			request = true;
+
+			b[c] = b[c].replace( rcs, ' ' );
+			b[c] += ( window.postMessage && request ? ' ' : ' no-' ) + cs;
+		}());
+	</script>
+			<div id="wpadminbar" class="nojq nojs">
+							<a class="screen-reader-shortcut" href="#wp-toolbar" tabindex="1">Skip to toolbar</a>
+						<div class="quicklinks" id="wp-toolbar" role="navigation" aria-label="Toolbar" tabindex="0">
+				<ul id="wp-admin-bar-root-default" class="ab-top-menu">
+		<li id="wp-admin-bar-wp-logo" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://vortago.com/wp-admin/about.php"><span class="ab-icon"></span><span class="screen-reader-text">About WordPress</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-wp-logo-default" class="ab-submenu">
+		<li id="wp-admin-bar-about"><a class="ab-item"  href="http://vortago.com/wp-admin/about.php">About WordPress</a>		</li></ul><ul id="wp-admin-bar-wp-logo-external" class="ab-sub-secondary ab-submenu">
+		<li id="wp-admin-bar-wporg"><a class="ab-item"  href="https://wordpress.org/">WordPress.org</a>		</li>
+		<li id="wp-admin-bar-documentation"><a class="ab-item"  href="https://codex.wordpress.org/">Documentation</a>		</li>
+		<li id="wp-admin-bar-support-forums"><a class="ab-item"  href="https://wordpress.org/support/">Support Forums</a>		</li>
+		<li id="wp-admin-bar-feedback"><a class="ab-item"  href="https://wordpress.org/support/forum/requests-and-feedback">Feedback</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-site-name" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://vortago.com/wp-admin/">Vortago</a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-site-name-default" class="ab-submenu">
+		<li id="wp-admin-bar-dashboard"><a class="ab-item"  href="http://vortago.com/wp-admin/">Dashboard</a>		</li></ul><ul id="wp-admin-bar-appearance" class="ab-submenu">
+		<li id="wp-admin-bar-themes"><a class="ab-item"  href="http://vortago.com/wp-admin/themes.php">Themes</a>		</li>
+		<li id="wp-admin-bar-widgets"><a class="ab-item"  href="http://vortago.com/wp-admin/widgets.php">Widgets</a>		</li>
+		<li id="wp-admin-bar-menus"><a class="ab-item"  href="http://vortago.com/wp-admin/nav-menus.php">Menus</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-customize" class="hide-if-no-customize"><a class="ab-item"  href="http://vortago.com/wp-admin/customize.php?url=http%3A%2F%2Fvortago.com%2Findex.php%2Ftest-page%2F">Customize</a>		</li>
+		<li id="wp-admin-bar-updates"><a class="ab-item"  href="http://vortago.com/wp-admin/update-core.php" title="1 Plugin Update"><span class="ab-icon"></span><span class="ab-label">1</span><span class="screen-reader-text">1 Plugin Update</span></a>		</li>
+		<li id="wp-admin-bar-comments"><a class="ab-item"  href="http://vortago.com/wp-admin/edit-comments.php" title="0 comments awaiting moderation"><span class="ab-icon"></span><span id="ab-awaiting-mod" class="ab-label awaiting-mod pending-count count-0">0</span></a>		</li>
+		<li id="wp-admin-bar-new-content" class="menupop"><a class="ab-item"  aria-haspopup="true" href="http://vortago.com/wp-admin/post-new.php"><span class="ab-icon"></span><span class="ab-label">New</span></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-new-content-default" class="ab-submenu">
+		<li id="wp-admin-bar-new-post"><a class="ab-item"  href="http://vortago.com/wp-admin/post-new.php">Post</a>		</li>
+		<li id="wp-admin-bar-new-media"><a class="ab-item"  href="http://vortago.com/wp-admin/media-new.php">Media</a>		</li>
+		<li id="wp-admin-bar-new-page"><a class="ab-item"  href="http://vortago.com/wp-admin/post-new.php?post_type=page">Page</a>		</li>
+		<li id="wp-admin-bar-new-ads"><a class="ab-item"  href="http://vortago.com/wp-admin/post-new.php?post_type=ads">Ad</a>		</li>
+		<li id="wp-admin-bar-new-user"><a class="ab-item"  href="http://vortago.com/wp-admin/user-new.php">User</a>		</li>
+		<li id="wp-admin-bar-ab-ls-add-new"><a class="ab-item"  href="http://vortago.com/wp-admin/admin.php?page=layerslider">LayerSlider</a>		</li></ul></div>		</li>
+		<li id="wp-admin-bar-edit"><a class="ab-item"  href="http://vortago.com/wp-admin/post.php?post=121&#038;action=edit">Edit Page</a>		</li>
+		<li id="wp-admin-bar-momizat_options"><a class="ab-item"  href="http://vortago.com/wp-admin/admin.php?page=momizat_options">Theme Options</a>		</li>
+		<li id="wp-admin-bar-vc_inline-admin-bar-link" class="vc_inline-link"><a class="ab-item"  href="http://vortago.com/wp-admin/post.php?vc_action=vc_inline&#038;post_id=121&#038;post_type=page">Edit with Visual Composer</a>		</li></ul><ul id="wp-admin-bar-top-secondary" class="ab-top-secondary ab-top-menu">
+		<li id="wp-admin-bar-search" class="admin-bar-search"><div class="ab-item ab-empty-item" tabindex="-1"><form action="http://vortago.com/" method="get" id="adminbarsearch"><input class="adminbar-input" name="s" id="adminbar-search" type="text" value="" maxlength="150" /><label for="adminbar-search" class="screen-reader-text">Search</label><input type="submit" class="adminbar-button" value="Search"/></form></div>		</li>
+		<li id="wp-admin-bar-my-account" class="menupop with-avatar"><a class="ab-item"  aria-haspopup="true" href="http://vortago.com/wp-admin/profile.php">Howdy, vortago<img alt='' src='http://0.gravatar.com/avatar/0a10738b4235a20d4c03eaa2716e4732?s=26&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/0a10738b4235a20d4c03eaa2716e4732?s=52&amp;d=mm&amp;r=g 2x' class='avatar avatar-26 photo' height='26' width='26' /></a><div class="ab-sub-wrapper"><ul id="wp-admin-bar-user-actions" class="ab-submenu">
+		<li id="wp-admin-bar-user-info"><a class="ab-item" tabindex="-1" href="http://vortago.com/wp-admin/profile.php"><img alt='' src='http://0.gravatar.com/avatar/0a10738b4235a20d4c03eaa2716e4732?s=64&#038;d=mm&#038;r=g' srcset='http://0.gravatar.com/avatar/0a10738b4235a20d4c03eaa2716e4732?s=128&amp;d=mm&amp;r=g 2x' class='avatar avatar-64 photo' height='64' width='64' /><span class='display-name'>vortago</span></a>		</li>
+		<li id="wp-admin-bar-edit-profile"><a class="ab-item"  href="http://vortago.com/wp-admin/profile.php">Edit My Profile</a>		</li>
+		<li id="wp-admin-bar-logout"><a class="ab-item"  href="http://vortago.com/wp-login.php?action=logout&#038;_wpnonce=75f6f5eb2c">Log Out</a>		</li></ul></div>		</li></ul>			</div>
+						<a class="screen-reader-shortcut" href="http://vortago.com/wp-login.php?action=logout&#038;_wpnonce=75f6f5eb2c">Log Out</a>
+					</div>
+
+			    </body>
+</html>

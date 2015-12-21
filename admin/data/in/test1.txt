@@ -1,0 +1,98 @@
+Show~Date~Person (guess?)~Media Type~Media Value~Media URL~Media Title~Media Description
+99~12/11/2014~Shantanu Starick~2~112712949~~Shantanu Starick: How I Went Two Years Without Spending Any Money - 99u~
+99~11/28/2014~Joanne Wilson~2~110585784~~Joanne Wilson: The Magic of Dreaming Big - 99u~
+99~11/14/2014~Seth Godin~2~111658420~~Seth Godin: Keep Making a Ruckus - 99u~
+99~11/7/2014~Hank Willis Thomas~2~110585783~~Hank Willis Thomas: Artists Should Work in Society’s Subconscious - 99u~
+99~10/31/2014~Andy Didorosi~2~110583590~~Andy Didorosi: What Detroit Taught Me about Getting Things Done - 99u~
+99~10/14/2014~Oliver Burkeman~2~101751706~~Oliver Burkeman: The Negative Path to Happiness and Success - 99u~
+99~10/3/2014~Aaron Dignan~2~101751707~~Aaron Dignan: How to Think like a Startup - 99u~
+99~9/26/2014~Susan Gregg Koger~2~103460716~~Susan Gregg Koger: Being a Rookie Is an Asset - 99u~
+99~9/19/2014~Jason Fried|Scott Heiferman~2~103460648~~Jason Fried & Scott Heiferman: Building Businesses That Last - 99u~
+99~8/22/2014~Robert Brunner~2~104009337~~Robert Brunner: What All Great Design Companies Know - 99u~
+99~8/8/2014~Mark Ecko~2~102864535~~Mark Ecko: Embrace the Mess - 99u~
+99~8/1/2014~Joshua Klein~2~101750865~~Joshua Klein: Invest in Your Network & Your Network Will Invest in You - 99u~
+99~7/18/2014~Wendy MacNaughton~2~101033415~~Wendy MacNaughton: Listen to Strangers - 99u~
+99~7/10/2014~John Maeda~2~100229100~~John Maeda: Fall in Love with Technology through Great Design - 99u~
+99~7/3/2014~Tony Schwartz~2~99360138~~Tony Schwartz: To Solve Big Problems, Change Your Process - 99u~
+99~6/26/2014~Tina Roth Eisenberg~2~99242101~~Tina Roth Eisenberg: Don’t Complain, Create - 99u~
+99~6/18/2014~Ben Shaffer~2~98550935~~Ben Shaffer: Innovation Means Building a Safe Space for Failure - 99u~
+99~6/13/2014~Sarah Lewis~2~98084209~~Sarah Lewis: Find Your Private Domain - 99u~
+99~6/2/2014~Krista Donaldson~2~95985671~~Krista Donaldson: Designing Products That Change the World - 99u~
+99~5/28/2014~Jeff Sheng~2~95775472~~Jeff Sheng: Don’t Ask, Don’t Tell & Creativity’s Role in Driving Social Change - 99u~
+99~5/21/2014~James Victore|Ben Barry~2~92333973~~James Victore and Ben Barry: How to Build Your Own Career - 99u~
+99~4/25/2014~Scott Belsky~2~92560627~~Scott Belsky: What Are You Willing to Be Bad At? - 99u~
+99~4/18/2014~Neil Blumenthal~2~92335730~~Neil Blumenthal: 3 Lessons Learned From Building Warby Parker - 99u~
+99~4/11/2014~Michael Wolff~2~91667183~~Michael Wolff: Never Stop Asking “Why?” - 99u~
+99~4/4/2014~Kathryn Minshew~2~90762713~~Kathryn Minshew: 7 Classic Startup Founder Mistakes (And How to Avoid Them) - 99u~
+99~3/28/2014~Alexis Ohanian~2~90244076~~Alexis Ohanian: Sucking is the First Step to Being Sorta Good at Something - 99u~
+99~3/20/2014~Ramit Sethi~2~86126020~~Ramit Sethi: How to Charge What You’re Worth - 99u~
+99~3/14/2014~Allison Johnson~2~88907392~~Allison Johnson: We Have Enough Companies Like Apple - 99u~
+99~3/6/2014~Aaron Dignan~2~88296842~~Aaron Dignan: Digital Isn’t Software, It’s a Mindset - 99u~
+99~2/27/2014~Nikhil Arora~2~87687664~~Nikhil Arora: Transparent Is the New Clever - 99u~
+99~2/21/2014~Jonathan Perelman~2~87193418~~Jonathan Perelman: Content Is King, But Distribution Is Queen - 99u~
+99~2/13/2014~Heidi Grant Halvorson~2~86610705~~Heidi Grant Halvorson: The Incredible Benefits of a “Get Better” Mindset - 99u~
+99~2/5/2014~Cal Newport~2~85927282~~Cal Newport: “Follow Your Passion” Is Bad Advice - 99u~
+99~1/30/2014~Gary Vaynerchuk~2~85285112~~Gary Vaynerchuk: Stop Storytelling Like It’s 2007 - 99u~
+99~1/17/2014~Gretchen Rubin~2~84142413~~Gretchen Rubin: The 4 Ways to Successfully Adopt New Habits - 99u~
+99~1/8/2014~Heather Payne~2~83682467~~Heather Payne: How to Turn Your Side Project Into a Full-Time Gig - 99u~
+99~12/18/2013~Tina Seelig~2~81732966~~Tina Seelig: The 6 Characteristics of Truly Creative People - 99u~
+99~12/5/2013~Josh Reich~2~79498944~~Josh Reich: People Say They Need Complexity, But What They Want Is Simplicity - 99u~
+99~11/21/2013~Simon Sinek~2~79899786~~Simon Sinek: Why Leaders Eat Last - 99u~
+99~11/11/2013~Brené Brown~2~78769611~~Brené Brown: Why Your Critics Aren’t The Ones Who Count - 99u~
+99~11/4/2013~Joe Gebbia~2~77144446~~Joe Gebbia: Executing Your Idea Starts With a Small Single Step - 99u~
+99~10/25/2013~Joshua Davis~2~77785831~~Jared Cohen: Don’t Pursue Ideas With Obvious Conclusions - 99u~
+99~10/4/2013~Leah Busque~2~75985557~~Leah Busque: Have Big, Hairy, Audacious Goals And Take Baby Steps - 99u~
+99~8/9/2013~Jane ni Dhulchaointigh~2~72040407~~Jane ni Dhulchaointigh: The Magic Is in The Process - 99u~
+99~6/19/2013~AJ Jacobs~2~68572000~~AJ Jacobs: The Importance of Self-Delusion in the Creative Process - 99u~
+99~5/7/2013~Sebastian Thrun~2~66259651~~Sebastian Thrun on the Universal Law of Innovation: Build It, Break It, Improve It - 99u~
+99~2/28/2013~Baratunde Thurston~2~60770545~~Baratunde Thurston: Getting Things Done Is Inspiration + Sheer Willpower - 99u~
+99~1/24/2013~Jad Abumrad~2~58119161~~Jad Abumrad: Why “Gut Churn” Is an Essential Part of the Creative Process - 99u~
+99~1/3/2013~Rilla Alexander~2~53424300~~Rilla Alexander: Without the Doing, Dreaming Is Useless - 99u~
+99~12/19/2012~Keith Yamashita~2~55814448~~Keith Yamashita: The 3 Habits of Great Creative Teams - 99u~
+99~12/6/2012~Alexis Ohanian~2~53424298~~Alexis Ohanian: Give a Damn. Give Lots of Damns. - 99u~
+99~11/15/2012~Alexis Madrigal~2~52256863~~Alexis Madrigal: Why Startups Need To Solve Real Problems Again - 99u~
+99~10/25/2012~Jonathan Adler~2~52118987~~Jonathan Adler: Keep Other People’s Opinions Out Of Your Creative Process - 99u~
+99~10/4/2012~Piya Sorcar~2~50617836~~Piya Sorcar: Why You Should Obsess Over Quality - 99u~
+99~9/26/2012~Neil Blumenthal|Jenn Hyman~2~50257809~~Neil Blumenthal & Jenn Hyman: Why Transparency & Openness Wins - 99u~
+99~9/11/2012~Teresa Amabile~2~49179452~~Teresa Amabile: Track Your Small Wins to Motivate Big Accomplishments - 99u~
+99~9/3/2012~Paula Scher~2~48694458~~Paula Scher: Do What You’ve Never Done Before - 99u~
+99~8/17/2012~Jason Goldberg~2~47688758~~Jason Goldberg: You Can’t Iterate Yourself To A Business Model - 99u~
+99~7/22/2012~James Victore~2~46112891~~James Victore: Your Work Is A Gift - 99u~
+99~6/6/2012~Tony Fadell~2~43497548~~Tony Fadell: On Setting Constraints, Ignoring Experts & Embracing Self-Doubt - 99u~
+99~12/26/2011~Yves Béhar~2~34047962~~Yves Béhar : Why Designers Should Be In Love With The Process - 99u~
+99~12/2/2011~Tony Schwartz~2~33018637~~Tony Schwartz: The Myths of the Overworked Creative - 99u~
+99~11/10/2011~Patrician McCarthy~2~31914858~~Patrician McCarthy: What’s Your Innate Gift? - 99u~
+99~10/16/2011~Aaron Dignan~2~30566074~~Aaron Dignan: How to Use Games to Excel at Life and Work - 99u~
+99~9/27/2011~Beth Comstock~2~28946565~~Beth Comstock: Make Heroes Out of the Failures - 99u~
+99~9/11/2011~Linda Rottenberg~2~28378837~~Linda Rottenberg: For Entrepreneurs, “Crazy” Is A Compliment - 99u~
+99~8/22/2011~Andrew Zuckerman~2~27928639~~Andrew Zuckerman: On Curiosity, Rigor, and Learning As You Go - 99u~
+99~8/12/2011~Starlee Kine~2~27635756~~Starlee Kine: Fear, Heartbreak, and Making It Happen Against All Odds - 99u~
+99~7/31/2011~Joshua Foer~2~27067169~~Joshua Foer: Step Outside Your Comfort Zone and Study Yourself Failing - 99u~
+99~7/24/2011~Simon Sinek~2~26774102~~Simon Sinek: If You Don’t Understand People, You Don’t Understand Business - 99u~
+99~6/26/2011~Jared Cohen~2~25313182~~Don't Pursue Ideas With Obvious Conclusions~
+99~5/19/2011~~2~23965123~~The 99U Experience: Insights On Putting Your Ideas Into Action - 99u~
+99~12/16/2010~Martin Ping~2~17900282~~Martin Ping: Transforming Society Begins With Transforming Yourself - 99u~
+99~11/18/2010~Antenna Design~2~16979026~~Antenna Design: Why Two Minds Think Faster Than One - 99u~
+99~11/3/2010~Stefan Sagmeister~2~16480283~~Stefan Sagmeister: Don’t Take Creativity For Granted - 99u~
+99~10/11/2010~John Maeda~2~15673277~~John Maeda: Looking for Superman - 99u~
+99~9/9/2010~Jay O’Callahan~2~14806071~~Jay O’Callahan: The Power of Storytelling - 99u~
+99~8/23/2010~Frans Johansson~2~14358662~~Frans Johansson: The Secret Truth About Executing Great Ideas - 99u~
+99~8/5/2010~Scott Belsky~2~13399691~~Scott Belsky: How To Avoid The Idea Generation Trap - 99u~
+99~7/28/2010~~2~13432412~~If I Knew Then What I Know Now: Advice for Young Creatives - 99u~
+99~7/26/2010~Jack Dorsey|Stefan Sagmeister|John Maeda|Fred Wilson~2~13644378~~2010 99U Conference: Stop Dreaming & Start Doing - 99u~
+99~7/12/2010~Leslie Koch~2~13258666~~Leslie Koch: Think Big and Act Small - 99u~
+99~6/17/2010~Fred Wilson~2~12643907~~Fred Wilson: 10 Ways to Be Your Own Boss - 99u~
+99~5/31/2010~Jack Dorsey~2~11712774~~Jack Dorsey: The 3 Keys to Twitter’s Success - 99u~
+99~5/24/2010~Eve Blossom~2~11982999~~Eve Blossom: Create Containers for Collaboration - 99u~
+99~4/24/2010~Scott Belsky~2~19138421~~Scott Belsky: Is It Urgent, Or Is It Important? - 99u~
+99~3/25/2010~Jill Greenberg~2~10437697~~Jill Greenberg: How Much Should You Push the Envelope? - 99u~
+99~2/11/2010~Jeffrey Kalmikoff|Jake Nickell~2~9367822~~Threadless: The Do-First Work Ethic - 99u~
+99~1/11/2010~Ji Lee~2~8596045~~Ji Lee: The Transformative Power of Personal Projects - 99u~
+99~12/28/2009~Scott Belsky~2~8422213~~Scott Belsky: Don’t Let Your Genius Go Unnoticed - 99u~
+99~11/22/2009~Jason Randal~2~7763712~~Jason Randal: Learn How to “Stretch” Your Memory & Focus - 99u~
+99~10/26/2009~Michael Bierut~2~7252845~~Michael Bierut: 5 Secrets from 86 Notebooks - 99u~
+99~9/8/2009~Robert Hammond~2~6486838~~Robert Hammond: Building the High Line - 99u~
+99~7/30/2009~Scott Belsky~2~6797456~~Scott Belsky: Creativity x Organization = Impact - 99u~
+99~7/1/2009~Scott Thomas~2~5943199~~Scott Thomas: Designing the Obama Campaign - 99u~
+99~6/1/2009~Seth Godin~2~5895898~~Seth Godin: Quieting the Lizard Brain - 99u~
+99~5/1/2009~Cheryl Dorsey~2~5894770~~Cheryl Dorsey: Social Entrepreneurial Intelligence - 99u~

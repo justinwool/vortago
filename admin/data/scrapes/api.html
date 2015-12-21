@@ -1,0 +1,132 @@
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+
+<script>
+// Get Uploads Playlist
+
+//AtGoogleTalks
+//bigthink
+//92ndStreetY
+//AtheistFoundation
+//cambridgeunionsoc
+//SingularitySummits
+
+id = "SingularitySummits";
+show = "Singularity Summits";
+
+show = "JR's InsideOut";
+id = "TheInsideOutChannel";
+
+show = "OreillyMedia ";
+id = "OreillyMedia";
+
+show = "UChannel (Princeton)";
+id = "uchannel";
+
+show = "YaleCourses";
+id = "YaleCourses";
+
+show = "StanfordUniversity";
+id = "StanfordUniversity";
+
+show = "New Scientist";
+id = "newscientistvideo";
+
+show = "National Geographic";
+id = "NationalGeographic";
+
+show = "Reel NASA";
+id = "ReelNASA";
+
+show = "Fora.Tv";
+id = "ForaTv";
+
+show = "The Atheist Foundation";
+id = "AtheistFoundation";
+
+show = "Oxford Union";
+id = "OxfordUnion";
+
+show = "British Humanists";
+id = "BritishHumanists";
+
+show = "The Hauenstein Center";
+id = "HauensteinCenter";
+
+show = "Lift Conference";
+id = "liftconference";
+
+show = "Museum of Modern Art MOMA";
+id = "MoMAvideos";
+
+show = "Pulitzer Center";
+id = "PulitzerCenter";
+
+show = "Personal Democracy";
+id = "personaldemocracy";
+
+show = "O'Reilly Media";
+id = "OreillyMedia";
+
+show = "Harvard";
+id = "Harvard";
+
+show = "Long Now Foundation";
+id = "longnow";
+
+
+$.get(
+   "https://www.googleapis.com/youtube/v3/channels",{
+   part : 'contentDetails',
+   forUsername : id,
+   key: 'AIzaSyAD3HRSQhR-P4m5AlVV5s53ZDzGcdw0r0w'},
+   function(data) {
+      $.each( data.items, function( i, item ) {
+          pid = item.contentDetails.relatedPlaylists.uploads;
+		console.log("getting pid " + pid);
+          getVids(pid,"");
+      });
+  }
+);
+
+
+//Get Videos
+function getVids(pid,nextPage){
+    $.get(
+        "https://www.googleapis.com/youtube/v3/playlistItems",{
+        part : 'snippet',
+        maxResults : 50,
+        playlistId : pid,
+        pageToken : nextPage,
+        key: 'AIzaSyAD3HRSQhR-P4m5AlVV5s53ZDzGcdw0r0w'},
+        function(data) {
+            var results;
+            $.each( data.items, function( i, item ) {
+				results = "<tr>";
+				results += "<td>" + show + "</td>";
+				results += "<td>" + item.snippet.resourceId.videoId + "</td>";
+				results += "<td>" + item.snippet.publishedAt + "</td>";
+				results += "<td>" + item.snippet.title + "</td>";
+				results += "<td>" + item.snippet.description + "</td>";
+                $('#results tbody').append(results);
+            });
+            nextPage = data.nextPageToken;
+			console.log("nextPage is " + nextPage);
+			if (nextPage) getVids(pid,nextPage);
+        }
+    );
+}
+</script>
+
+<!--In your HTML -->
+<table id="results">
+<thead>
+<tr>
+	<th>Show</th>
+	<th>Video ID</th>
+	<th>Publish Date</th>
+	<th>Title</th>
+	<th>Description</th>
+</tr>
+<tbody>
+</table>
