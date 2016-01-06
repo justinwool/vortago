@@ -74,7 +74,10 @@ id = "Harvard";
 show = "Long Now Foundation";
 id = "longnow";
 
+show = "Long Now Foundation";
+id = "UCMtFAi84ehTSYSE9XoHefig";
 
+/*
 $.get(
    "https://www.googleapis.com/youtube/v3/channels",{
    part : 'contentDetails',
@@ -88,7 +91,21 @@ $.get(
       });
   }
 );
+*/
 
+$.get(
+   "https://www.googleapis.com/youtube/v3/channels",{
+   part : 'contentDetails',
+   id: "UCMtFAi84ehTSYSE9XoHefig",
+   key: 'AIzaSyAD3HRSQhR-P4m5AlVV5s53ZDzGcdw0r0w'},
+   function(data) {
+      $.each( data.items, function( i, item ) {
+          pid = item.contentDetails.relatedPlaylists.uploads;
+		console.log("getting pid " + pid);
+          getVids(pid,"");
+      });
+  }
+);
 
 //Get Videos
 function getVids(pid,nextPage){

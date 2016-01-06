@@ -10,7 +10,7 @@ Template Name: Landing Page
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-  <title>Piecia</title>
+  <title>Vortago:  Lectures, Interviews, and Appearances</title>
 
   <!-- Stylesheets -->
   <link rel="stylesheet" href="/v1/css/style.css">
@@ -101,13 +101,13 @@ Template Name: Landing Page
             <div class="field">
               <button class="btn btn-red">Search</button>
             </div>
-            
+
 			<div id="searchExamples" style="">
 				<u><b>Examples:</b></u><br>
 				<i>Tom Cruise Letterman</i><br>
 				<i>Bill Nye 2014</i><br>
-				<i>Bill Clinton</i>		<br>		
-				<i>Bill Murray Late Show</i><br>				
+				<i>Bill Clinton</i>		<br>
+				<i>Bill Murray Late Show</i><br>
 				<i>Ted Talks</i>				<br>
 			</div>
           </form>
@@ -172,7 +172,7 @@ Template Name: Landing Page
 
 <!-- Start Tour -->
 <section id="tour">
-  
+
   <div class="part first-part">
     <div class="container">
       <div class="row">
@@ -229,6 +229,24 @@ Template Name: Landing Page
       </div>
     </div>
   </div>
+
+  <div class="part first-part">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+          <div class="preamble text-left">
+            <h3>Discover Appearances.</h3>
+            <p class="lead">From the most recent back to their very first appearance, find chronologically listed content of your favorite actor, writer, scientist, or celebrity.</p>
+          </div>
+        </div>
+        <div class="col-md-6">
+          <img src="/v1/img/nye.jpg" alt="" class="img-responsive">
+        </div>
+      </div>
+    </div>
+  </div>
+
+
 </section>
 <!-- End Tour -->
 
