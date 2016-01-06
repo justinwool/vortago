@@ -61,44 +61,56 @@ $url="http://www.npr.org/programs/fresh-air/archive";
 
 $html_big = file_get_contents($url);
 
-preg_match_all(
-	'~<article class="program-archive-episode.*?data-episode-id="(.*?)" data-episode-date="(.*?)">(.*?)<a class="full-show reprise".*?/a>\s*</article>~s'
-	,
-	$html_big,
-	$episodes, // will contain the blog posts
-	PREG_SET_ORDER // formats data into an array of posts
-);
+while (1){
 
-foreach ($episodes as $episode){
-
-	$epid = $episode[1];
-	$dt = $episode[2];
-	$fullep = $episode[3];
-
-	echo "Epid = $epid <br>";
-	echo "Dt = $dt<br>";
-
-	continue;
+	if ($epid) $html_big = file_get_contents($url . "?date=$dt&eid=$epid");
 
 	preg_match_all(
-		'~<h2 class="episode-date">.*?<time datetime="(.*?)">.*?</h2>.*?<h1 class="title".*?>(.*?)</h1>.*?<p class="teaser">.*?<time.*?/time>(.*?)</p>.*?<div class="audio-player .*?data-html5-url="(.*?)"~s'
+		'~<article class="program-archive-episode.*?data-episode-id="(.*?)" data-episode-date="(.*?)">(.*?)<a class="full-show reprise".*?/a>\s*</article>~s'
 		,
-		$article[1],
-		$vals, // will contain the blog posts
+		$html_big,
+		$episodes, // will contain the blog posts
 		PREG_SET_ORDER // formats data into an array of posts
 	);
 
+	if (!count($episodes)) break;
 
-	echo "<tr>";
-	echo "<td>" . $showcode . "</td>";
-	echo "<td>" .  $vals[0][1] . "</td>";
-	echo "<td>" .  "" . "</td>";
-	echo "<td>" .  5 . "</td>";
-	echo "<td>" .  $vals[0][4] . "</td>";
-	echo "<td>" .  $vals[0][2] . "</td>";
-	echo "<td>" .  $vals[0][3] . "</td>";
-	echo "</tr>";
+	foreach ($episodes as $episode){
+
+		$epid = $episode[1];
+		$dt = $episode[2];
+		$fullep = $episode[3];
+
+/*
+		echo "Epid = $epid <br>";
+		echo "Dt = $dt<br>";
+*/
+
+		preg_match_all(
+			'~<article class="program-archive-segment">.*?<h1 class="title">(.*?)</h1>\s*<p class="teaser">(.*?)</p>.*?<li class="download"><a href="(.*?)?dl=1"~s'
+			,
+			$fullep,
+			$segs, // will contain the blog posts
+			PREG_SET_ORDER // formats data into an array of posts
+		);
+
+		foreach ($segs as $vals){
+
+			echo "<tr>";
+			echo "<td>" . $showcode . "</td>";
+			echo "<td>" .  $dt . "</td>";
+			echo "<td>" .  "" . "</td>";
+			echo "<td>" .  5 . "</td>";
+			echo "<td>" .  $vals[3] . "</td>";
+			echo "<td>" .  $vals[1] . "</td>";
+			echo "<td>" .  $vals[2] . "</td>";
+			echo "</tr>";
+
+		}
+
+		continue;
+
+	}
 
 }
-
 ?>
