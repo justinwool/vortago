@@ -67,21 +67,10 @@ while($row = $result->fetch_assoc()) {
 	if ($row["media_type"]==""){
 	}
 	else {
-		if (!array_key_exists($row["media_type"],$media_code_required)){
+		if (trim($row["media_code"]=="")){
+			echo "*****";
 			setStatus($pk,8);
 			continue;
-		}
-		else {
-			if ($media_code_required[$row["media_type"]] && trim($row["media_code"]=="")){
-				echo "*****";
-				setStatus($pk,8);
-				continue;
-			}
-			if ($media_url_required[$row["media_type"]] && trim($row["media_url"]=="")){
-				echo "*****";
-				setStatus($pk,8);
-				continue;
-			}
 		}
 	}
 

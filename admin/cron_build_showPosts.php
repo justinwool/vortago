@@ -16,7 +16,9 @@ $conn->query("SET character_set_results=utf8");
 $q = <<<MOUT
 SELECT *
 FROM shows
-WHERE show_post IS NULL OR show_post=0
+WHERE img_url IS NOT NULL
+AND (show_post IS NULL OR show_post=0)
+
 MOUT;
 
 $result = $conn->query($q);
@@ -27,14 +29,6 @@ while($row = $result->fetch_assoc()) {
 	$details = $row;
 
 	$out = Array();
-
-	if ($details["appear_post"]){
-		$out["msg"] = "This show already has a Wordpress post associated with it.";
-		$out["q"] = $q;
-		$out["err"] = 1;
-		echo json_encode($out);
-		continue;
-	}
 
 	// Create post object
 	$my_post = array(
@@ -62,18 +56,46 @@ while($row = $result->fetch_assoc()) {
 		continue;
     }
 
+
 	if ($postid<>""){
 		$q = "UPDATE shows SET show_post = $postid WHERE show_pk = " . $details["show_pk"];
 		$conn->query($q);
+
+		$out["jw1"] = "Loading image...";
+
+		if ($details["img_url"]<>""){
+
+			$out["jw1"] .= "Found image url...";
+
+
+/*
+			require_once('../wp-admin/includes/media.php');
+			require_once('../wp-admin/includes/file.php');
+			require_once('../wp-admin/includes/image.php');
+*/
+
+			$image = media_sideload_image($details["img_url"], $postid);
+			if ($image){
+
+				$out["jw1"] .= "Attaching image...";
+
+				$media = get_attached_media( 'image', $postid );
+				$last = array_pop($media);
+				if (set_post_thumbnail( $postid, $last->ID )){
+					$out["jw1"] .= "Setting thumb...";
+					$q = sprintf("UPDATE shows SET img_post=%d WHERE show_pk=%d",$last->ID,$details["show_pk"]);
+					$conn->query($q);
+				}
+			}
+		}
+
 	}
 	else {
-		echo "$q<br>";
-
-		$out["msg"] = "There may have been an error creating the Wordpress post.";
+		$out["msg"] = "There may have been an error creating the Wordpress post.  Please check the Shows page.";
 		$out["q"] = $q;
 		$out["err"] = 1;
 		echo json_encode($out);
-		continue;
+		exit();
 	}
 
 	$out["err"] = 0;
